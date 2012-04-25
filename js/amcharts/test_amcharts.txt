@@ -4,8 +4,8 @@ How to use?
 You can import ``amcharts`` or ``amstock`` from ``js.amcharts`` and ``need`` it
 where you want these resources to be included on a page:
 
-* ``amcharts`` will provide only the `Charts`_ library...
-* while ``amstock`` will provide both the `Charts`_ and `Stock`_ libraries.
+* ``amcharts`` will provide only the `Chart`_ library...
+* while ``amstock`` will provide both the `Chart`_ and `Stock`_ libraries.
 
   >>> from js.amcharts import amstock, amcharts
   >>> amcharts.need()
