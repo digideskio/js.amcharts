@@ -15,3 +15,6 @@ This library packages `amCharts`_ for `fanstatic`_. It provides both the
 This requires integration between your web framework and ``fanstatic``, and
 making sure that the original resources (shipped in the ``resources`` directory
 in ``js.amcharts``) are published to some URL.
+
+You can find the repository for this package at
+https://github.com/securactive/js.amcharts
