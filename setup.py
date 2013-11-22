@@ -30,6 +30,7 @@ setup(
     author='Fanstatic Developers',
     author_email='fanstatic@googlegroups.com',
     license='BSD',
+    url='https://github.com/securactive/js.amcharts',
     packages=find_packages(),namespace_packages=['js'],
     include_package_data=True,
     zip_safe=False,
